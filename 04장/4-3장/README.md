@@ -18,7 +18,7 @@ line, rectangle, circle, putText 등 OpenCV의 그리기 함수로 도형과 글
 
   [![4-3장 과제8 영상](https://img.youtube.com/vi/A3-uhceO-rM/0.jpg)](https://youtu.be/A3-uhceO-rM)
 
-  **과제9 - 방향키 이동 구간을 선으로 그리기**<br>
+  **과제9 - 방향키 이동 궤적을 선으로 그리기**<br>
 
   [![4-3장 과제9 영상](https://img.youtube.com/vi/R-qf6Bn_uVE/0.jpg)](https://youtu.be/R-qf6Bn_uVE)
 </details>
