@@ -2,7 +2,7 @@
 
 Mat::at<uchar>(), Mat::at<Vec3b>() 등을 이용해 픽셀 하나하나에 직접 접근하는 방법을 다루며, 격자 무늬 그리기와 포물선 그래프를 픽셀 단위로 그리는 실습입니다.
 
-- 📄 [강의자료 보기](./강의자료.pdf)
-- 📄 [과제.pdf 보기](./과제.pdf)
-- 📁 [3장으로 이동](../README.md)
-- ⬆ [OpenCV-Practice1로 이동](../../README.md)
+📄 [강의자료 보기](./강의자료.pdf)
+📄 [과제.pdf 보기](./과제.pdf)
+📁 [03장으로 이동](../README.md)
+⬆ [OpenCV-Practice로 이동](../../README.md)
